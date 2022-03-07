@@ -31,3 +31,5 @@ Other PLM-componets for Sucker Rod Pumping Systems:
 * https://github.com/vkopey/protector-for-sucker-rod
 * https://github.com/vkopey/pycodyn
 * https://github.com/vkopey/Thread-turning-simulator
+
+**This is part of the research work "Expert system on problems of reliability and durability of sucker-rod pumping units with computer-aided design and modeling modules" was funded by a scholarship from the Cabinet of Ministers of Ukraine for young scientists.**
