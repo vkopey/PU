@@ -1,4 +1,4 @@
-#PLM-componets for Sucker Rod Pumping Systems
+# PLM-componets for Sucker Rod Pumping Systems
 
 * https://github.com/vkopey/PU
 * https://github.com/vkopey/TreePyKB
@@ -17,3 +17,6 @@
 * https://github.com/vkopey/protector-for-sucker-rod
 * https://github.com/vkopey/pycodyn
 * https://github.com/vkopey/Thread-turning-simulator
+* https://github.com/vkopey/ThreadsPLM-MAS-
+* https://github.com/vkopey/ThreadES
+* https://github.com/vkopey/IRclassify
